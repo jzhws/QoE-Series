@@ -22,5 +22,5 @@ _<a href="https://ieeexplore.ieee.org/abstract/document/10849855" target="_blank
 
 <div align="left">
     
-## Training Dataset
-- The EPAIQA-15K dataset: https://huggingface.co/datasets/qjyyyyy/EPAIQA-15K (qjyyyyy/EPAIQA-15K)
+## Dataset
+- The LIVE-SJTU-1K dataset: https://huggingface.co/datasets/JZHWS/SJTU-LIVE-1K/tree/main (JZHWS/SJTU-LIVE-1K)

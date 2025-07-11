@@ -5,7 +5,7 @@
 
 <h1>Towards Explainable Partial-AIGC Image Quality Assessment</h1>
 
-_[VCIP2024] Official dataset for LIVE-SJTU-1K dataset_
+_<a href="https://ieeexplore.ieee.org/abstract/document/10849855" target="_blank">[VCIP2024]</a> Official dataset for LIVE-SJTU-1K dataset_
 
   <div>
       <a href="https://github.com/2022qjy" target="_blank">Ziheng Jia</a><sup>1</sup><sup>*</sup>,

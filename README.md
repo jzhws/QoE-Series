@@ -23,4 +23,4 @@ _<a href="https://ieeexplore.ieee.org/abstract/document/10849855" target="_blank
 <div align="left">
     
 ## Dataset
-- The LIVE-SJTU-1K dataset: https://huggingface.co/datasets/JZHWS/SJTU-LIVE-1K/tree/main (JZHWS/SJTU-LIVE-1K)
+- The LIVE-SJTU-1K dataset: https://huggingface.co/JZHWS/SJTU-LIVE-1K/tree/main (JZHWS/SJTU-LIVE-1K)

@@ -8,7 +8,7 @@
 _<a href="https://ieeexplore.ieee.org/abstract/document/10849855" target="_blank">[VCIP2024]</a> Official release for LIVE-SJTU-1K dataset_
 
   <div>
-      <a href="https://github.com/2022qjy" target="_blank">Ziheng Jia</a><sup>1</sup><sup>*</sup>,
+      <a href="https://github.com/2022qjy" target="_blank">Ziheng Jia</a><sup>1</sup>,
       <a href="https://scholar.google.com/citations?user=91sjuWIAAAAJ&hl=zh-CN&oi=ao" target="_blank">Xiongkuo Min</a><sup>1</sup><sup>#</sup>,
       <a href="https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24&infoid=153&flag=153" target="_blank">Guangtao Zhai</a><sup>1</sup>  
   </div>
@@ -17,7 +17,7 @@ _<a href="https://ieeexplore.ieee.org/abstract/document/10849855" target="_blank
   <sup>1</sup>Shanghai Jiaotong University
        </div>   
  <div>
-<sup>*</sup>Equal contribution. <sup>#</sup>Corresponding author. 
+ <sup>#</sup>Corresponding author. 
    </div>
 
 <div align="left">

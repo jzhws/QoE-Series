@@ -3,7 +3,7 @@
     
 
 
-<h1>Towards Explainable Partial-AIGC Image Quality Assessment</h1>
+<h1>End-to-end Prediction of Streaming Video Quality of Experience: Dataset and Approach</h1>
 
 _<a href="https://ieeexplore.ieee.org/abstract/document/10849855" target="_blank">[VCIP2024]</a> Official release for LIVE-SJTU-1K dataset_
 
